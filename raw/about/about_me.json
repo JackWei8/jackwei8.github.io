@@ -1,0 +1,16 @@
+{
+  "errorCode": 0,
+  "data": {
+    "icon": "https://avatar.gitee.com/uploads/64/1696564_goweii.png",
+    "name": "Jack Wei",
+    "desc": "为着常成，行者常至。",
+    "github": "https://github.com/JackWei8",
+    "jianshu": "https://www.weitek.xyz",
+    "qq": "670987122",
+    "qq_group": "weijaky",
+    "qq_group_key": "JmCQm5bb3okRTF3XHl_yyWQCwfcIKkfJ",
+    "qq_qrcode": "https://gitee.com/goweii/WanAndroidServer/raw/master/about/qq_qrcode.png",
+    "wx_qrcode": "https://gitee.com/goweii/WanAndroidServer/raw/master/about/wx_qrcode.png"
+  },
+  "errorMsg": ""
+}
